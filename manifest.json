@@ -1,11 +1,12 @@
 {
-  "short_name": "Pickle Tent",
-  "name": "Pickle Tent — Premium Tent Pickleball Courts",
+  "short_name": "The Pickle Tent",
+  "name": "The Pickle Tent — Premium Tent Pickleball Courts",
   "icons": [
     {
-      "src": "assets/pickletent/logo.png",
-      "sizes": "any",
-      "type": "image/png"
+      "src": "assets/pickletent/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
     }
   ],
   "start_url": ".",

@@ -3,6 +3,8 @@ Assets live here under a subfolder per client.
 Structure example:
 
 assets/
+  pickletent/
+    logo.jpg
   tpc1016/
     logo.png
     background.jpg
